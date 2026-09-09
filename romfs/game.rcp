@@ -1,0 +1,15 @@
+image images/backgrounds/ocean_view.t3x background
+image images/sprites/sports.t3x sports
+
+character s "sports" #0e9e73
+
+scene background
+bottom background
+
+show sports
+
+dia /s "This is good news"
+
+dia the lizard has no fear
+
+dia /s "This is bad news"
